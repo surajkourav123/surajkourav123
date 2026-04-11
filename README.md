@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Builder;UI%2FUX+Enthusiast;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Builder;UI%2FUX+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/surajkourav123/surajkourav123/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/surajkourav123/surajkourav123/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 </p>
 
 ---
